@@ -74,10 +74,11 @@ header {
 }
 
 .store-image-small {
-  max-width: 180px;
+  max-width: 140px;
   height: auto;
-  border-radius: 12px;
+  border-radius: 8px;
   transition: transform 0.2s;
+  margin: 10px 0;
 }
 
 .store-image-small:hover {
