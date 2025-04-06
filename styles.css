@@ -84,6 +84,22 @@ header {
   transform: scale(1.05);
 }
 
+.video-section {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin-top: 20px;
+}
+
+.video-container {
+  max-width: 320px;
+}
+
+.spacer {
+  height: 40px;
+}
+
 footer {
   margin-top: 50px;
   padding: 20px;
